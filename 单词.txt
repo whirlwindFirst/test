@@ -141,3 +141,5 @@ fortune			财富；命运；运气
 company			公司
 team			队
 repository		仓库，知识库
+
+我是你爸爸！
