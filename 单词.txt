@@ -1,0 +1,143 @@
+Accept                                   	接受
+refused                                  	拒绝，refuse的过去式
+Applet			小应用程序，支程序
+connection                             	连接（名词）   connect  连接（动词）
+collection			采集，聚集；[税收] 征收；收藏品；募捐
+Content                                  	内容
+Build                                       	建立   Builder 建立者
+command                               	命令
+context                                   	环境，上下文
+backups                                  	备份
+account                                   	账户
+security                                   	安全
+secure                                     	安全的
+order                                      	订单
+property                                 	性质，性能，属性
+blaky                                      	停蹄不前的；倔强的；不愿干的
+
+main                                      	主要的  最大的
+arguments                             	参数
+reverse                                  	相反  逆向  反转
+cast                                       	投 抛  计算
+
+manipulation                        	操作 操纵
+execute                                 	执行  实行
+exist                                      	存在
+flow                                       	流动 ， 流量
+satisfaction                            	满意度
+call-back                                	回调
+Parameter                             	参数
+Charge                                   	费用
+parse                                     	解析，理解
+Operation                              	操作；经营
+proxy                                     	代理人；委托书；代用品
+software                                 	软件，软件，软体，软设备
+portal                                     	传送门，门户，门户，网站
+claim                                      	宣称；要求，索取；引起
+fault                                        	故障；[地质] 断层；错误；缺点；毛病；
+failure			失败，故障，失败者
+exchange                                	交换；交易；兑换
+continue                                  	继续，连续
+location                                 	位置；地点；外景拍摄场地
+weight                                   	重量，重力；负担；砝码；重要性
+extent                                    	范围，长度
+length                                    	长度
+width                                    	宽度
+height                                    	高度 
+
+current                                  	现在的；流通的，通用的；最近的；草写的
+judge                                     	判断
+
+pass                                       	通过，经过
+include                                  	包含
+instance                                 	实例
+Interceptor                            	拦截器，拦截者
+authorization                         	鉴权，授权
+authentication		证明；鉴定；证实
+invoke		              	调用，祈求 
+Action                                     	行动；活动；功能；战斗；情节
+payment                                  付款，支付；
+detail                                      	细节
+handle			处理，
+handler                                   	处理者，管理者
+chain                                       	链；束缚；枷锁
+mapping                                 	映射，
+adapt			使适应；改编
+adapter         		适配器；改编者；接合器；适应者
+resolve			决定；溶解；使……分解；
+resolver			溶剂；[电子] 分解器；下决心者
+validation			确认，验证，校验，检验
+cancel			取消；删去
+confirm			确定，确认
+amount			数量，数额；总数；
+channel			渠道，频道；途径；方式；通道；水渠；航道；海峡；
+organization		机构，组织，团体
+balance			结算，余额
+active			积极的；活跃的；主动的；有效的；现役的
+Decimal			小数
+Scale			规模；比例
+personal			个人的
+intelligent			智能的；聪明的；理解力强的
+intellect			智力，理解力；知识分子
+undefind			不明确的；未下定义的
+defind			确定的
+applicable		可适用的；可应用的；合适的
+Boolean			布尔型数据类型
+short			 短的；不足的；矮的，低的
+byte			字节
+int 			整数
+long			长的；长时间的；远的
+function			功能；[数] 函数；职责；
+equal			平等的；相等的；胜任的
+station			车站；驻地；地位；身份
+fail			失败，不及格；破产；
+failed			已经失败
+complete			完成，使完满；
+source			源，来源
+resource			资源，财力
+status			地位；状态；情形；
+firewall			防火墙
+fire			火
+wall			墙
+master			主人；大师；硕士；
+event			事件，大事
+processes			进程
+denied			拒绝
+Permission		允许，许可，
+profile			侧面；轮廓；外形；剖面；简况
+player			运动员，比赛者；游戏者，做游戏的人；
+renew			续费
+router			路由器
+
+cluster			集群
+enabled			使能够，使成为可能；授权给，批准
+prefix			加前缀；将某事物加在前面
+check			检查，核对；制止，抑制；
+chmod			更改文件属性；档案权限，修改文件权限；
+track			追踪
+interval			 间隔；间距；幕间休息
+virtual			虚拟的；
+priority			优先；优先权
+advert			广告
+async			异步的
+access			接近，使用；访问，存取（电脑文档）
+display			显示；炫耀
+forward			发送；转寄；向前地；按顺序地；
+transform			转换
+transaction		事务，交易
+translation		 翻译；译文；转化；调任
+trans			反式的，交易
+maintain			维护
+compailer			编译器，编辑者
+object			目标；物体
+buffer			缓冲区；缓冲器
+stack			栈
+iterator			迭代器
+iterat			迭代
+entry			进入；入口
+initialization		初始化
+developers		开发者
+fortune			财富；命运；运气
+company			公司
+team			队
+repository		仓库，知识库
